@@ -6,6 +6,8 @@
 
   (title_block
     (title "Macintosh IIfx 16 MB SIMM")
+    (date "2023-09-15")
+    (rev "v1")
   )
 
   (lib_symbols
