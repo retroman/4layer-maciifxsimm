@@ -1,8 +1,12 @@
 # Macintosh IIfx 16 MB SIMM
 
-This SIMM PCB is to be populated with KM41C16000CK chips.
+This repository contains a PCB layout for a 16MB SIMM to be used in
+the Macintosh IIfx system.  The SIMM is a proprietary, 8 bit wide
+proprietary type with 64 pins.
 
-UNTESTED, please don't produce PCBs based on this (yet).
+This design is to be populated with KM41C16000CK chips.
+
+***UNTESTED, please don't produce PCBs based on this (yet).***
 
 ## Acknowledgement
 
