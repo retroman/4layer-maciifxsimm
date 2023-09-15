@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "maciifxsimm-rescue")(type "KiCad")(uri "${KIPRJMOD}/maciifxsimm-rescue.kicad_sym")(options "")(descr ""))
+)

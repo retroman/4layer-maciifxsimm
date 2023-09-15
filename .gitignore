@@ -1,0 +1,6 @@
+gerber/
+gerber.zip
+*-backups/
+_autosave*
+*.bak
+fp-info-cach
