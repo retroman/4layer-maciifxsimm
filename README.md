@@ -8,6 +8,8 @@ This design is to be populated with KM41C16000CK chips.  It has been
 developed with [KiCAD](https://www.kicad.org/).  I have successfully
 built a set of these and they work fine.
 
+![Macintosh IIfx 16 MB SIMM v2 front and back](./images/build-v2.jpg)
+
 ## Acknowledgement
 
 Based on work by TubeTimeUS (https://github.com/schlae/gvpsimm)
