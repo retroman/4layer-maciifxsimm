@@ -5,9 +5,8 @@ the Macintosh IIfx system.  The SIMM is a proprietary, 8 bit wide
 proprietary type with 64 pins.
 
 This design is to be populated with KM41C16000CK chips.  It has been
-developed with [KiCAD](https://www.kicad.org/).
-
-***UNTESTED, please don't produce PCBs based on this (yet).***
+developed with [KiCAD](https://www.kicad.org/).  I have successfully
+built a set of these and they work fine.
 
 ## Acknowledgement
 
