@@ -16,10 +16,10 @@ The design has been tested with 128MB of HM5116100AS7 chips in a repaired batter
 Maximum overclock was 60 MHz with 5.30V, and 57 MHz with 4.97V -- the same as a factory-assembled 8MB 70ns SIMM set.
 
 
-![4-Layer Macintosh IIfx 16 MB SIMM unpopulated](./images/4layer-maciifxsimm-pcb-tinned-and-caps-installed.jpg)
-![4-Layer Macintosh IIfx 16 MB SIMM front](./images/4layer-maciifxsimm-front.jpg)
-![4-Layer Macintosh IIfx 16 MB SIMM back](./images/4layer-maciifxsimm-back.jpg)
-![4-Layer Macintosh IIfx 16 MB SIMM installed](./images/4layer-maciifxsimm-installed.jpg)
+![4-Layer Macintosh IIfx 16 MB SIMM unpopulated](./4layer-maciifxsimm-pcb-tinned-and-caps-installed.jpg)
+![4-Layer Macintosh IIfx 16 MB SIMM front](./4layer-maciifxsimm-front.jpg)
+![4-Layer Macintosh IIfx 16 MB SIMM back](./4layer-maciifxsimm-back.jpg)
+![4-Layer Macintosh IIfx 16 MB SIMM installed](./4layer-maciifxsimm-installed.jpg)
 
 ## Fabrication Notes
 A set of 10 test PCBs were manufactured by JLCPCB on 2025-08-16 using the following order parameters:
